@@ -1,0 +1,11 @@
+#Installing Kinetic on Windows Linux SubSystem
+
+http://wiki.ros.org/kinetic/Installation/Ubuntu
+
+#installing Kinetic on Raspberry Pi - Raspian Buster OS
+
+http://wiki.ros.org/ROSberryPi/Installing%20ROS%20Kinetic%20on%20the%20Raspberry%20Pi
+
+Ensure that Boost 1.58.0 Installation is availabe. Follow the below link - change 1.60.0 to 1.58.0
+
+http://osdevlab.blogspot.com/2016/02/how-to-install-latest-boost-library-on.html

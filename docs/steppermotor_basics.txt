@@ -1,0 +1,12 @@
+Nema 17 Motor Basics
+
+1. Hybrid Motor with 2 Coils with Center Tap
+2. Identify the Ends of the Coil - Measure the Resistance between pins 
+3. Center Tap pin with other pin of the same coil should be half of the resistance value compared to the resistance measured between the same Coil
+
+Short video Explaining Basics of Stepper Motor
+
+https://www.youtube.com/watch?v=hHe4Fc6uuBs
+
+
+
